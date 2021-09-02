@@ -26,7 +26,6 @@ test_cov_html:
 
 travis_before_install:
 	composer self-update
-	composer global require hirak/prestissimo
 
 travis_install:
 	composer install --prefer-dist --no-interaction
