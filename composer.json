@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "require": {
         "laravel/framework": "^5.6 || ^6.0",
-        "nicolacostantino/seven": "v1.0.0"
+        "nicolacostantino/seven": "v9999999-dev"
     },
     "autoload": {
         "psr-4": {
